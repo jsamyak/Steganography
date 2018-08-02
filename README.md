@@ -8,7 +8,7 @@ NOTE: The images should be of the same size for complete concealment.
 
 Each image is made up of several pixels. Each pixel’s color value is determined by the amount of Red, Green and Blue color it has. In hexadecimal (Base 16) system, each of the color’s intensity can range from 0 to 255.
 
-For concealing an image in a different image we take the most significant digits of the color value of the image that needs to be concealed and assign them to the least significant digits of a third image(The final product). The most significant digits of the color value of the third image are same as the most significant digits of the color value of the image in which the concealment is to be done.
+For concealing an image in a different image we take the most significant digits of the color value of the image that needs to be concealed and assign them to the least significant digits of a third image (The final product). The most significant digits of the color value of the third image are same as the most significant digits of the color value of the image in which the concealment is to be done.
 
     Extraction of the concealed image:
 
