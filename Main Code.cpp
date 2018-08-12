@@ -1,3 +1,4 @@
+
 var start = new SimpleImage("usain.jpg");
 var hide = new SimpleImage("skyline.jpg");
 
